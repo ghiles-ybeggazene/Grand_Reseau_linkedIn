@@ -1,0 +1,4 @@
+a = document.getElementsByClassName("artdeco-button__text")
+for (i=0 ; i < a.length ;i++){
+a[i].click()
+}
